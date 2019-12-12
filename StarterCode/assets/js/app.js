@@ -14,10 +14,10 @@ var svg = d3
   .attr("class", "chart");
 
   var circRadius;
-=======
+
   var circRadius;
 
->>>>>>> ff75e9e45629832962b5a90ed55f183c142242db
+
 function crGet() {
   if (width <= 530) {
     circRadius = 5;
